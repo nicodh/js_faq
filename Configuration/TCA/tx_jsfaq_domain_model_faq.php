@@ -157,6 +157,7 @@ return array(
 				'foreign_table' => 'tx_jsfaq_domain_model_expert',
 				'minitems' => 0,
 				'maxitems' => 1,
+                'default' => 0
 			),
 		),
 		'related' => array(
